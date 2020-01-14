@@ -5,12 +5,12 @@
     <script src="/js/src/gitment.browser.js" type="text/javascript"></script>
     <script type="text/javascript">
       var gitment = new Gitment({
-        id: 'blog-guestbook',
-        owner: 'Neveryu',
-        repo: 'Neveryu.github.io',
+        id: 'enjoy-blog',
+        owner: 'ningsk',
+        repo: 'ningsk.github.io',
         oauth: {
-          client_id: 'bbd367cf498321402719',
-          client_secret: '5d6b890500a2acaf7705495eee9c5ad12ed1f3d2',
+          client_id: '7834cad8540d848b3e0d',
+          client_secret: 'f9e3cb8b103fd50550c53fcc37dd46b17b5e1c73',
         },
       })
       gitment.render('gitmentContainer')
