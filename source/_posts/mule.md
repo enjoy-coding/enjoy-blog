@@ -2,9 +2,8 @@
 layout: post
 title: "你的命运不是骡子"  
 date: 2020-01-07 17:20
-comments: true
-tags: 
-	- 生活
+comments: false
+tags: [生活]
 ---
 
 最近看了阮一峰的《你的命运不是骡子》，里面讲了这么一个小故事：  

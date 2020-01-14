@@ -2,9 +2,9 @@
 layout: post
 title: "业余与工作"  
 date: 2020-01-08 14:28
-comments: true
-tags: 
-	- 生活
+categories: 杂谈
+comments: false
+tags: [生活]
 ---
 
 
