@@ -2,9 +2,8 @@
 layout: post
 title: "2019年终总结"  
 date: 2020-01-06 18:20 
-comments: true
-tags: 
-	- 生活
+comments: false
+tags: [生活]
 ---
   
 

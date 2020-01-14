@@ -2,9 +2,8 @@
 layout: post
 title: "何去何从"  
 date: 2020-01-05 19:33
-comments: true
-tags: 
-	- 生活
+comments: false
+tags: [生活]
 ---
 
 
